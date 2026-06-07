@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "technicaldiscussion",
+  "project_id": "6171b18c-be4c-45bf-811f-afe9d0b2ffee"
+}
